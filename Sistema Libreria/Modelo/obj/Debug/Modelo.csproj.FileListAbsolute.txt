@@ -1,0 +1,9 @@
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\bin\Debug\Modelo.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\bin\Debug\Modelo.pdb
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\bin\Debug\Entidad.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\bin\Debug\Entidad.pdb
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\obj\Debug\Modelo.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Modelo\obj\Debug\Modelo.pdb

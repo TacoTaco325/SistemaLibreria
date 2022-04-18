@@ -1,0 +1,11 @@
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Controlador.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Controlador.pdb
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Entidad.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Modelo.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Entidad.pdb
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\bin\Debug\Modelo.pdb
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\obj\Debug\Controlador.dll
+D:\Documentos\4to Ciclo\Libreria EL Pepe\Libreria EL Pepe\Controlador\obj\Debug\Controlador.pdb
